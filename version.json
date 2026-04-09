@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "changelog": [
+        "Initial release",
+        "In-game tablet admin panel",
+        "Create, edit, delete safe zones",
+        "No damage, no weapons, no vehicles per zone",
+        "Whitelisted jobs bypass restrictions",
+        "Database-backed zone persistence",
+        "Map blips and boundary markers",
+        "Entry/exit notifications",
+        "Multi-notification support"
+    ],
+    "download": ""
+}

@@ -1,15 +1,16 @@
 {
-    "version": "1.0.0",
-    "changelog": [
-        "Initial release",
-        "In-game tablet admin panel",
-        "Create, edit, delete safe zones",
-        "No damage, no weapons, no vehicles per zone",
-        "Whitelisted jobs bypass restrictions",
-        "Database-backed zone persistence",
-        "Map blips and boundary markers",
-        "Entry/exit notifications",
-        "Multi-notification support"
-    ],
-    "download": ""
+  "version": "1.0.1",
+  "changelog": [
+    "Removed non-existent permAdminOnly checkbox reference",
+    "Initial release",
+    "In-game tablet admin panel",
+    "Create, edit, delete safe zones",
+    "No damage, no weapons, no vehicles per zone",
+    "Whitelisted jobs bypass restrictions",
+    "Database-backed zone persistence",
+    "Map blips and boundary markers",
+    "Entry/exit notifications",
+    "Multi-notification support"
+  ],
+  "download": "https://santafedev.store/"
 }

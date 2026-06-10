@@ -1,6 +1,8 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": [
+    "Added full ESX framework support",
+    "Added esx_notify and custom notification alias mapping",
     "Removed non-existent permAdminOnly checkbox reference",
     "Initial release",
     "In-game tablet admin panel",
@@ -12,5 +14,5 @@
     "Entry/exit notifications",
     "Multi-notification support"
   ],
-  "download": "https://santafedev.store/"
+  "download": "https://santafedev.store/products/7384429"
 }
